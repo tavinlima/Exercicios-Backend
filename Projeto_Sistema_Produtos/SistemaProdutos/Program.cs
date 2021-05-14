@@ -4,7 +4,7 @@ namespace SistemaProdutos
 {
     class Program
     {
-        static int tamanhoArray = 2;
+        static int tamanhoArray = 10;
         static bool Menu = true;
         static string[] Nome = new string[tamanhoArray];
         static float[] Preco = new float[tamanhoArray];
