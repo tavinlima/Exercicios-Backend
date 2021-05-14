@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Silvana\\Desktop\\Exercicios - Backend\\Projeto_Passagens_Aereas\\Passagens_Aereas\\Passagens_Aereas.csproj",
-      "projectName": "Passagens_Aereas",
-      "projectPath": "C:\\Users\\Silvana\\Desktop\\Exercicios - Backend\\Projeto_Passagens_Aereas\\Passagens_Aereas\\Passagens_Aereas.csproj",
+      "projectUniqueName": "C:\\Users\\Silvana\\Desktop\\Exercicios - Backend\\Projeto_Sistema_Produtos\\SistemaProdutos\\SistemaProdutos.csproj",
+      "projectName": "SistemaProdutos",
+      "projectPath": "C:\\Users\\Silvana\\Desktop\\Exercicios - Backend\\Projeto_Sistema_Produtos\\SistemaProdutos\\SistemaProdutos.csproj",
       "packagesPath": "C:\\Users\\Silvana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Silvana\\Desktop\\Exercicios - Backend\\Projeto_Passagens_Aereas\\Passagens_Aereas\\obj\\",
+      "outputPath": "C:\\Users\\Silvana\\Desktop\\Exercicios - Backend\\Projeto_Sistema_Produtos\\SistemaProdutos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Silvana\\AppData\\Roaming\\NuGet\\NuGet.Config"

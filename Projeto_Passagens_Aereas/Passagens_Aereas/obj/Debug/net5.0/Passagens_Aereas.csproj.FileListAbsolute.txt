@@ -14,3 +14,19 @@ C:\Users\Silvana\Desktop\Projeto_Passagens_Aereas\Passagens_Aereas\obj\Debug\net
 C:\Users\Silvana\Desktop\Projeto_Passagens_Aereas\Passagens_Aereas\obj\Debug\net5.0\ref\Passagens_Aereas.dll
 C:\Users\Silvana\Desktop\Projeto_Passagens_Aereas\Passagens_Aereas\obj\Debug\net5.0\Passagens_Aereas.pdb
 C:\Users\Silvana\Desktop\Projeto_Passagens_Aereas\Passagens_Aereas\obj\Debug\net5.0\Passagens_Aereas.genruntimeconfig.cache
+C:\Users\Silvana\Desktop\Exercicios - Backend\Projeto_Passagens_Aereas\Passagens_Aereas\obj\Debug\net5.0\Passagens_Aereas.csprojAssemblyReference.cache
+C:\Users\Silvana\Desktop\Exercicios - Backend\Projeto_Passagens_Aereas\Passagens_Aereas\obj\Debug\net5.0\Passagens_Aereas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvana\Desktop\Exercicios - Backend\Projeto_Passagens_Aereas\Passagens_Aereas\obj\Debug\net5.0\Passagens_Aereas.AssemblyInfoInputs.cache
+C:\Users\Silvana\Desktop\Exercicios - Backend\Projeto_Passagens_Aereas\Passagens_Aereas\obj\Debug\net5.0\Passagens_Aereas.AssemblyInfo.cs
+C:\Users\Silvana\Desktop\Exercicios - Backend\Projeto_Passagens_Aereas\Passagens_Aereas\obj\Debug\net5.0\Passagens_Aereas.csproj.CoreCompileInputs.cache
+C:\Users\Silvana\Desktop\Exercicios - Backend\Projeto_Passagens_Aereas\Passagens_Aereas\obj\Debug\net5.0\Passagens_Aereas.dll
+C:\Users\Silvana\Desktop\Exercicios - Backend\Projeto_Passagens_Aereas\Passagens_Aereas\obj\Debug\net5.0\ref\Passagens_Aereas.dll
+C:\Users\Silvana\Desktop\Exercicios - Backend\Projeto_Passagens_Aereas\Passagens_Aereas\obj\Debug\net5.0\Passagens_Aereas.pdb
+C:\Users\Silvana\Desktop\Exercicios - Backend\Projeto_Passagens_Aereas\Passagens_Aereas\bin\Debug\net5.0\Passagens_Aereas.exe
+C:\Users\Silvana\Desktop\Exercicios - Backend\Projeto_Passagens_Aereas\Passagens_Aereas\bin\Debug\net5.0\Passagens_Aereas.deps.json
+C:\Users\Silvana\Desktop\Exercicios - Backend\Projeto_Passagens_Aereas\Passagens_Aereas\bin\Debug\net5.0\Passagens_Aereas.runtimeconfig.json
+C:\Users\Silvana\Desktop\Exercicios - Backend\Projeto_Passagens_Aereas\Passagens_Aereas\bin\Debug\net5.0\Passagens_Aereas.runtimeconfig.dev.json
+C:\Users\Silvana\Desktop\Exercicios - Backend\Projeto_Passagens_Aereas\Passagens_Aereas\bin\Debug\net5.0\Passagens_Aereas.dll
+C:\Users\Silvana\Desktop\Exercicios - Backend\Projeto_Passagens_Aereas\Passagens_Aereas\bin\Debug\net5.0\ref\Passagens_Aereas.dll
+C:\Users\Silvana\Desktop\Exercicios - Backend\Projeto_Passagens_Aereas\Passagens_Aereas\bin\Debug\net5.0\Passagens_Aereas.pdb
+C:\Users\Silvana\Desktop\Exercicios - Backend\Projeto_Passagens_Aereas\Passagens_Aereas\obj\Debug\net5.0\Passagens_Aereas.genruntimeconfig.cache

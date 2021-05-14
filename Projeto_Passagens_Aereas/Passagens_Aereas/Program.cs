@@ -12,6 +12,7 @@ namespace Passagens_Aereas
             string[] data = new string[5];
             bool cadastro = false;
             bool passagemNova = false;
+            string resposta;
             int g = 0;
 
             Console.WriteLine("Olá! Para entrar em nosso sistema. Insira sua senha: ");
@@ -22,10 +23,16 @@ namespace Passagens_Aereas
                 Console.WriteLine("\n Login concluído." + "\n");
                 do
                 {
-                    Console.WriteLine("Acesso ao menu" + "\n");
-                    Console.WriteLine("Selecione (1) para Cadastrar Passagem.");
-                    Console.WriteLine("Selecione (2) para Listar Passagem.");
-                    Console.WriteLine("Selecione (3) para Sair.");
+                    Console.WriteLine($@"
+                    |------------------------------------------|
+                    |              Acesso ao menu              |
+                    |------------------------------------------|
+                    |------------------------------------------|
+                    |   Selecione 1 para Cadastrar Passagem.   |
+                    |   Selecione 2 para Listar Passagem.      |
+                    |   Selecione 0 para Sair.                 |
+                    |------------------------------------------|
+                    ");
                     int menu = int.Parse(Console.ReadLine());
 
                     switch (menu)
@@ -44,7 +51,7 @@ namespace Passagens_Aereas
                                 g++;
 
                                 Console.WriteLine("Deseja cadastrar uma nova passagem? S/N (máximo de 5 passagens)");
-                                string novaPassagem = Console.ReadLine().ToUpper().Substring(0, 1);
+                                resposta = Console.ReadLine().ToUpper().Substring(0, 1);
 
                                 if (g == nome.Length)
                                 {
@@ -56,15 +63,15 @@ namespace Passagens_Aereas
                                 }
                                 else
                                 {
-                                    if (novaPassagem == "S")
-                                    {
-                                        cadastro = false;
-                                    }
-                                    else
-                                    {
-                                        cadastro = true;
-                                        passagemNova = true;
-                                    }
+                                     if (resposta == "S")
+                                     {
+                                         cadastro = false;
+                                     }
+                                     else
+                                     {
+                                         cadastro = true;
+                                         passagemNova = true;
+                                     }
                                 }
 
 
@@ -87,7 +94,7 @@ Data de viagem: {data[i]}"
                                 Console.ResetColor();
                             }
                             break;
-                        case 3:
+                        case 0:
                             Console.ForegroundColor = ConsoleColor.Blue;
                             Console.WriteLine("Obrigado e volte sempre!");
                             Console.ResetColor();
